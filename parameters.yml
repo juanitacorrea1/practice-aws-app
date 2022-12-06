@@ -1,0 +1,4 @@
+region: us-west-2
+stack_name: terraform-backend
+bucket_base_name: terraform-state
+lock_table_name: terraform-lock
